@@ -1,2 +1,0 @@
-# .github
-Serverless application
